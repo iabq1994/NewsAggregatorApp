@@ -1,0 +1,26 @@
+{
+"name": "6ews-ggregator-pp",
+"version": "1.0.0",
+"description": "A news aggregator application that collects and presents news articles from various sources in a unified interface. It offers customizable filters, real-time updates, and a user-friendly reading experience.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/iabq1994/NewsAggregatorApp.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "iabq1994",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
